@@ -1,2 +1,2 @@
 Few changes are added.
-New commit
+New commit added
